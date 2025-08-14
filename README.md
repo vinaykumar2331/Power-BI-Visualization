@@ -1,4 +1,3 @@
-readme_content = """
 # 🚢 Titanic Dataset - Power BI Dashboard
 
 This repository presents an interactive **Power BI Dashboard** built on the historical **Titanic dataset**. The dashboard helps visualize survival patterns, demographic distributions, and embarkation details of Titanic passengers.
