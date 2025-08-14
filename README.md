@@ -3,7 +3,7 @@ readme_content = """
 
 This repository presents an interactive **Power BI Dashboard** built on the historical **Titanic dataset**. The dashboard helps visualize survival patterns, demographic distributions, and embarkation details of Titanic passengers.
 
-![Titanic Dashboard](Titanic.png)
+![Titanic Dashboard](https://drive.google.com/file/d/1ER629GXnSmbRiN8B00nw6uFDot58ljT7/view?usp=sharing)
 
 ---
 
@@ -38,12 +38,7 @@ The dashboard provides insights into:
 
 ---
 
-## 📁 Files
-
-```bash
-📁 titanic-powerbi-dashboard/
-├── TitanicDashboard.pbix        # Power BI dashboard file
-├── Titanic.png                  # Dashboard screenshot
-├── data/
-│   └── titanic.csv              # Titanic dataset (if included)
-└── README.md                    # Project documentation
+### 📦 Tools Used
+- Power BI Desktop
+- Power Query (M language)
+- DAX (Data Analysis Expressions)
