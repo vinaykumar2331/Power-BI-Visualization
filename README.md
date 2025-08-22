@@ -2,7 +2,7 @@
 
 This repository presents an interactive **Power BI Dashboard** built on the historical **Titanic dataset**. The dashboard helps visualize survival patterns, demographic distributions, and embarkation details of Titanic passengers.
 
-![Titanic Dashboard]([https://drive.google.com/file/d/1ER629GXnSmbRiN8B00nw6uFDot58ljT7/view?usp=sharing](https://github.com/vinaykumar2331/Power-BI-Visualization/blob/main/Titanic.png))
+![Titanic Dashboard](https://github.com/vinaykumar2331/Titanic-Dataset-Analysis-in-Power-BI-Passenger-Survival-Rate/blob/main/Titanic.png)
 
 ---
 
