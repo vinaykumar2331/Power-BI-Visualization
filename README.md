@@ -59,6 +59,5 @@ The dashboard provides insights into:
 `data-storytelling`  
 `analytics`  
 `public-datasets`  
-`portfolio-project`
 
 ---
