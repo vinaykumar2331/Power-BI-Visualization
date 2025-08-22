@@ -41,3 +41,24 @@ The dashboard provides insights into:
 - Power BI Desktop
 - Power Query (M language)
 - DAX (Data Analysis Expressions)
+
+---
+
+## 🏷️ Tags
+
+`titanic-dataset`  
+`powerbi`  
+`data-visualization`  
+`dashboard`  
+`data-analysis`  
+`interactive-dashboard`  
+`business-intelligence`  
+`dax`  
+`power-query`  
+`m-language`  
+`data-storytelling`  
+`analytics`  
+`public-datasets`  
+`portfolio-project`
+
+---
